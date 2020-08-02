@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//akumbhar11.github.io/github-jobs-react/static/css/main.f08e5790.chunk.css",
+    "main.js": "//akumbhar11.github.io/github-jobs-react/static/js/main.aae41569.chunk.js",
+    "main.js.map": "//akumbhar11.github.io/github-jobs-react/static/js/main.aae41569.chunk.js.map",
+    "runtime-main.js": "//akumbhar11.github.io/github-jobs-react/static/js/runtime-main.0a72b789.js",
+    "runtime-main.js.map": "//akumbhar11.github.io/github-jobs-react/static/js/runtime-main.0a72b789.js.map",
+    "static/js/2.9a00f951.chunk.js": "//akumbhar11.github.io/github-jobs-react/static/js/2.9a00f951.chunk.js",
+    "static/js/2.9a00f951.chunk.js.map": "//akumbhar11.github.io/github-jobs-react/static/js/2.9a00f951.chunk.js.map",
+    "index.html": "//akumbhar11.github.io/github-jobs-react/index.html",
+    "precache-manifest.00674482dd7da3ec91dd763733ce00cc.js": "//akumbhar11.github.io/github-jobs-react/precache-manifest.00674482dd7da3ec91dd763733ce00cc.js",
+    "service-worker.js": "//akumbhar11.github.io/github-jobs-react/service-worker.js",
+    "static/css/main.f08e5790.chunk.css.map": "//akumbhar11.github.io/github-jobs-react/static/css/main.f08e5790.chunk.css.map",
+    "static/js/2.9a00f951.chunk.js.LICENSE.txt": "//akumbhar11.github.io/github-jobs-react/static/js/2.9a00f951.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a72b789.js",
+    "static/js/2.9a00f951.chunk.js",
+    "static/css/main.f08e5790.chunk.css",
+    "static/js/main.aae41569.chunk.js"
+  ]
+}
